@@ -30,7 +30,7 @@ SECRET_KEY = (
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://hari-mysite1.herokuapp.com','localhost',
+ALLOWED_HOSTS = ['https://mysite-hari.herokuapp.com/','localhost',
 '127.0.0.1']
 
 
